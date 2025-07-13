@@ -1,2 +1,2 @@
 # customQR
-- Developed a QR-code based mechanism for accessing server specifications using Python (Pillow, Pyqrcode, etc.)
+- GUI based custom design QR code generating utility.
